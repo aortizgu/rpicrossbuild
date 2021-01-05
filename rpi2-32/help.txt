@@ -1,0 +1,1 @@
+-DCMAKE_TOOLCHAIN_FILE=~/rpicrossbuild/rpi2-32/rpi.cmake
